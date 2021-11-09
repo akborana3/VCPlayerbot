@@ -54,7 +54,7 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/akborana3/VCPlayerBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akborana3/VCPlayerBot)
 
 ## Deploy to Railway
 <p><a href=https://github.com/akborana3/VCPlayerBot/issues/7> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
@@ -100,7 +100,7 @@ Fork the repo and edit as per your needs.
 
 # OWNER 
 - [AKAY](https://telegram.dog/akborana1)
-[![Deploy](https://telegra.ph/file/c4eb6a06a605fcfe06f4e.jpg)](https:/akborana3/heroku.com/deploy?template=https://github.com//VCPlayerBot)
+[![Deploy](https://telegra.ph/file/c4eb6a06a605fcfe06f4e.jpg)](https://heroku.com/deploy?template=https://github.com/Akborana3/VCPlayerBot)
 
 
 
